@@ -1,5 +1,13 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: darkgreen;
+}
+
+.top-suit, .bottom-suit {
+    font-size: 2.5em;
+}
+
+.value {
+    font-size: 3em;
 }
